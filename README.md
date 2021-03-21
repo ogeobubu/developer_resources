@@ -11,9 +11,9 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)      | a CSS viewer tailored for Designers.                               |
+| [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)      | A CSS viewer tailored for Designers.                               |
 | [PerfectPixel](https://www.welldonecode.com/perfectpixel/)                                               | Multiple overlays support                                          |
-| [Sketch App Sources](https://www.sketchappsources.com/)                                                  | Sketch UIs, wireframes, icons and much more                        |
-| [Humaaans](https://www.humaaans.com/)                                                                    | Cool illustrations of people with the ability to mix and match     |
-| [Paaatterns](https://products.ls.graphics/paaatterns/)                                                   | Free collection of beautiful patterns for all vector formats       |
-| [thepatternlibrary](http://thepatternlibrary.com/)                                                       | Free beautiful background patterns                                 
+| [UX Check](https://chrome.google.com/webstore/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp)          | Makes heuristic evaluations quick and easy                         |
+| [Checkbot](https://www.checkbot.io/)                                                                     | Finds critical SEO, speed & security problems                      |
+| [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)      | For improving web performance.                                     |
+| [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)          | The easiest way to find out the fonts used in a webpage            

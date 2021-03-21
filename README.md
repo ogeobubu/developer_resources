@@ -10,7 +10,7 @@
 | [UpLabs](https://uplabs.com)                                                                             | Find high-quality design resources for creative agencies and more  |
 | [Isometric](https://isoflat.com)                                                                         | Isometric and flat graphic resources. 500+ weekly new free vectors |
 | [UI Gradients](https://uigradients.com)                                                                  | A handpicked collection of color gradients for developers.         |
-| [Cool Background](https:// https://coolbackgrounds.io)                                                   | Cool background generator, it's entirely customizable.             |
+| [Cool Background](https://coolbackgrounds.io)                                                            | Cool background generator, it's entirely customizable.             |
 | [Pattern Library](https://thepatternlibrary.com)                                                         | A great collection of pattern for the people, by the people.       |
 
 ## Chrome Extensions

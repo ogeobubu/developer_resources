@@ -8,6 +8,7 @@
 | [UI Design Daily](https://uidesigndaily.com/)                                                            | Awesome UI Components of all types                                 |
 | [Illustration for 404 pages](https://error404.fun)                                                       | Make a unique journey through 404 error pages on your website      |
 | [UpLabs](https://uplabs.com)                                                                             | Find high-quality design resources for creative agencies and more  |
+| [Isometric](https://isoflat.com)                                                                         | Isometric and flat graphic resources. 500+ weekly new free vectors |
 
 ## Chrome Extensions
 >Here are some Chrome extensions that can improve your productivity. 

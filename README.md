@@ -16,4 +16,5 @@
 | [UX Check](https://chrome.google.com/webstore/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp)          | Makes heuristic evaluations quick and easy                         |
 | [Checkbot](https://www.checkbot.io/)                                                                     | Finds critical SEO, speed & security problems                      |
 | [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)      | For improving web performance.                                     |
-| [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)          | The easiest way to find out the fonts used in a webpage            
+| [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)          | The easiest way to find out the fonts used in a webpage            |
+| [Notion Web Clipper](https://chrome.google.com/webstore/detail/notion-web-clipper)                       | Where you can write, plan, collaborate and get organized           |

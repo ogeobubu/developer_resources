@@ -8,6 +8,7 @@
 | [UI Design Daily](https://uidesigndaily.com/)                                                            | Awesome UI Components of all types                                 
 
 ## Chrome Extensions
+>Here are some Chrome extensions that can improve your productivity. 
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |

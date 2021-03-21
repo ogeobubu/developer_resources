@@ -13,5 +13,5 @@
 | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)      | is a CSS viewer tailored for Designers.                               
 |
-| [Daily.dev](https://daily.dev)      | is a CSS viewer tailored for Designers.                               
+| [Daily.dev](https://daily.dev)                                                                           | is a CSS viewer tailored for Designers.                               
 

@@ -25,3 +25,13 @@
 | [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)      | For improving web performance.                                     |
 | [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)          | The easiest way to find out the fonts used in a webpage            |
 | [Notion Web Clipper](https://chrome.google.com/webstore/detail/notion-web-clipper)                       | Where you can write, plan, collaborate and get organized           |
+
+## Websites to check out
+>Useful websites for web developers
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                  |
+| -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------|
+| [Netlify](https://netlify.com/)                                | A serverless platform with an intuitive git-based workflow.                                                  |
+| [Figma](https://figma.com)                                     | Build better products as a team. Design, prototype, and gather feedback all in one place.                    |
+| [Responsively App](https://responsively.app)                   | A dev-tool that aids faster and precise responsive web development.                                          |
+| [Coolors](https://coolors.co)                                  | Generate or browse beautiful color combinations for your designs.                                            |

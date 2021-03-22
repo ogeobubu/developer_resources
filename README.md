@@ -36,6 +36,20 @@
 | [Responsively App](https://responsively.app)                   | A dev-tool that aids faster and precise responsive web development.                                          |
 | [Coolors](https://coolors.co)                                  | Generate or browse beautiful color combinations for your designs.                                            |
 
+## Cheat Sheets Website
+>Here are some cheat Sheets website for developers 
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                                                                                     |
+| ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------|
+| [OverAPI](https://overapi.com)                                                      | A website that aggregates cheat sheets for many popular web programming languages.      |
+| [Awesome-Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)               | It is  a collection of popular web programming language Cheatsheets.                    |
+| [Bootstrap 4 Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/)           | A site that aggregates all the functions and displays the components in Bootstrap       |
+| [GitSheet](https://https://gitsheet.wtf/)                                           | GitSheet is an aggregator of commands that you often use with Git.                      |
+| [HTML5 Element Index](https://html5doctor.com/element-index/)                       | The HTML5 element index is a web page aggregating new or redefined objects in the HTML5.|
+| [HTML CheatSheet](https://htmlcheatsheet.com/)                                      | HTML CheatSheet is a website that synthesizes useful examples and tools for developers  |
+| [Can I Use](https://caniuse.com)                                                    | A website that provides information about each different browser version.               |
+| [CSS3 Animation Cheat Sheet](https://justinaguilar.com/animations/)                 | A collection of CSS3 animations for your web project.                                   |
+
 ## Vectors & Clip Art
 
 >Free vectors, clipart, illustrations, patterns and more

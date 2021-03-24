@@ -45,10 +45,7 @@
 | [W3Schools CSS Tutorials](https://http://w3schools.com/css/default.asp)             | Indepth tutorial on CSS                                                                 |
 | [MaxiDesign](https://http://css.maxdesign.com.au)                                   | You can find Russ Weakley’s brilliant set of CSS-related tutorials                      |
 | [CSSDog](https://cssdog.com/index.html)                                             | CSS Reference section which lists quick guides and color references - are very helpful  |
-| [HTML5 Element Index](https://html5doctor.com/element-index/)                       | The HTML5 element index is a web page aggregating new or redefined objects in the HTML5.|
-| [HTML CheatSheet](https://htmlcheatsheet.com/)                                      | HTML CheatSheet is a website that synthesizes useful examples and tools for developers  |
-| [Can I Use](https://caniuse.com)                                                    | A website that provides information about each different browser version.               |
-| [CSS3 Animation Cheat Sheet](https://justinaguilar.com/animations/)                 | A collection of CSS3 animations for your web project.                                   |
+| [CSS-Discuss](https://css-discuss.org)                                              | CSS-Discuss is a community of CSS enthusiasts.                                          |
 
 ## Vectors & Clip Art
 

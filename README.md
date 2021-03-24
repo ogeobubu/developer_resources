@@ -36,16 +36,6 @@
 | [Responsively App](https://responsively.app)                   | A dev-tool that aids faster and precise responsive web development.                                          |
 | [Coolors](https://coolors.co)                                  | Generate or browse beautiful color combinations for your designs.                                            |
 
-## Websites to check out
->Useful websites for web developers
-
-| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                  |
-| -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------|
-| [Netlify](https://netlify.com/)                                | A serverless platform with an intuitive git-based workflow.                                                  |
-| [Figma](https://figma.com)                                     | Build better products as a team. Design, prototype, and gather feedback all in one place.                    |
-| [Responsively App](https://responsively.app)                   | A dev-tool that aids faster and precise responsive web development.                                          |
-| [Coolors](https://coolors.co)                                  | Generate or browse beautiful color combinations for your designs.                                            |
-
 ## Websites to Learn CSS
 >Uncovered 5 useful sites to learn CSS 
 
@@ -53,8 +43,8 @@
 | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------|
 | [CSS-Tricks](https://css-tricks.com)                                                | A blog dedicated to the  CSS tricks and lessons.                                        |
 | [W3Schools CSS Tutorials](https://http://w3schools.com/css/default.asp)             | Indepth tutorial on CSS                                                                 |
-| [Bootstrap 4 Cheat Sheet](https://hackerthemes.com/bootstrap-cheatsheet/)           | A site that aggregates all the functions and displays the components in Bootstrap       |
-| [GitSheet](https://https://gitsheet.wtf/)                                           | GitSheet is an aggregator of commands that you often use with Git.                      |
+| [MaxiDesign](https://http://css.maxdesign.com.au)                                   | You can find Russ Weakley’s brilliant set of CSS-related tutorials                      |
+| [CSSDog](https://cssdog.com/index.html)                                             | CSS Reference section which lists quick guides and color references - are very helpful  |
 | [HTML5 Element Index](https://html5doctor.com/element-index/)                       | The HTML5 element index is a web page aggregating new or redefined objects in the HTML5.|
 | [HTML CheatSheet](https://htmlcheatsheet.com/)                                      | HTML CheatSheet is a website that synthesizes useful examples and tools for developers  |
 | [Can I Use](https://caniuse.com)                                                    | A website that provides information about each different browser version.               |

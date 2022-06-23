@@ -1,5 +1,12 @@
 #### So I’ve gathered a list of tools and resources for front-end developers which falls into several categories.
 
+## Formatting & Optimization
+>As front-end developers, here are the best tools for formatting & optimizing your CSS 
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Code Beautifier]([https://www.codebeautifier.com/])                                                     | A well-known open-source CSS parser and optimizer which returns the optimised code along with a report of the changes done.                                 |
+
 ## UI Graphics
 >As front-end developers, our job is, essentially, to turn designs into reality via code this graphics designs should be of help
 

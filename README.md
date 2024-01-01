@@ -1,6 +1,6 @@
 #### So I’ve gathered a list of tools and resources for front-end developers which falls into several categories.
 
-## Formatting & Optimization
+## Formatting & Optimization.
 >As a front-end developers here are the best tools for formatting & optimizing your CSS.
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                        |
